@@ -1,0 +1,14 @@
+E:\Projetos\ProjetoCalculaSalario\ProjetoCalculaSalario\obj\Debug\net8.0\ProjetoCalculaSalario.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\ProjetoCalculaSalario\ProjetoCalculaSalario\obj\Debug\net8.0\ProjetoCalculaSalario.AssemblyInfoInputs.cache
+E:\Projetos\ProjetoCalculaSalario\ProjetoCalculaSalario\obj\Debug\net8.0\ProjetoCalculaSalario.AssemblyInfo.cs
+E:\Projetos\ProjetoCalculaSalario\ProjetoCalculaSalario\obj\Debug\net8.0\ProjetoCalculaSalario.csproj.CoreCompileInputs.cache
+E:\Projetos\ProjetoCalculaSalario\ProjetoCalculaSalario\bin\Debug\net8.0\ProjetoCalculaSalario.exe
+E:\Projetos\ProjetoCalculaSalario\ProjetoCalculaSalario\bin\Debug\net8.0\ProjetoCalculaSalario.deps.json
+E:\Projetos\ProjetoCalculaSalario\ProjetoCalculaSalario\bin\Debug\net8.0\ProjetoCalculaSalario.runtimeconfig.json
+E:\Projetos\ProjetoCalculaSalario\ProjetoCalculaSalario\bin\Debug\net8.0\ProjetoCalculaSalario.dll
+E:\Projetos\ProjetoCalculaSalario\ProjetoCalculaSalario\bin\Debug\net8.0\ProjetoCalculaSalario.pdb
+E:\Projetos\ProjetoCalculaSalario\ProjetoCalculaSalario\obj\Debug\net8.0\ProjetoCalculaSalario.dll
+E:\Projetos\ProjetoCalculaSalario\ProjetoCalculaSalario\obj\Debug\net8.0\refint\ProjetoCalculaSalario.dll
+E:\Projetos\ProjetoCalculaSalario\ProjetoCalculaSalario\obj\Debug\net8.0\ProjetoCalculaSalario.pdb
+E:\Projetos\ProjetoCalculaSalario\ProjetoCalculaSalario\obj\Debug\net8.0\ProjetoCalculaSalario.genruntimeconfig.cache
+E:\Projetos\ProjetoCalculaSalario\ProjetoCalculaSalario\obj\Debug\net8.0\ref\ProjetoCalculaSalario.dll

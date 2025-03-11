@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projetos\\ProjetoCalculaSalario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{071EAD34-0B52-49EF-A7A4-66C653C0A528}|ProjetoCalculaSalario\\ProjetoCalculaSalario.csproj|e:\\projetos\\projetocalculasalario\\projetocalculasalario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071EAD34-0B52-49EF-A7A4-66C653C0A528}|ProjetoCalculaSalario\\ProjetoCalculaSalario.csproj|solutionrelative:projetocalculasalario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071EAD34-0B52-49EF-A7A4-66C653C0A528}|ProjetoCalculaSalario\\ProjetoCalculaSalario.csproj|e:\\projetos\\projetocalculasalario\\projetocalculasalario\\entities\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071EAD34-0B52-49EF-A7A4-66C653C0A528}|ProjetoCalculaSalario\\ProjetoCalculaSalario.csproj|solutionrelative:projetocalculasalario\\entities\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "E:\\Projetos\\ProjetoCalculaSalario\\ProjetoCalculaSalario\\Entities\\Worker.cs",
+              "RelativeDocumentMoniker": "ProjetoCalculaSalario\\Entities\\Worker.cs",
+              "ToolTip": "E:\\Projetos\\ProjetoCalculaSalario\\ProjetoCalculaSalario\\Entities\\Worker.cs",
+              "RelativeToolTip": "ProjetoCalculaSalario\\Entities\\Worker.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T18:39:04.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Projetos\\ProjetoCalculaSalario\\ProjetoCalculaSalario\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetoCalculaSalario\\Program.cs",
+              "ToolTip": "E:\\Projetos\\ProjetoCalculaSalario\\ProjetoCalculaSalario\\Program.cs",
+              "RelativeToolTip": "ProjetoCalculaSalario\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T23:55:59.332Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
